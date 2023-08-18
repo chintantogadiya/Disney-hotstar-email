@@ -1,0 +1,76 @@
+<mjml>
+  <mj-body>
+    <mj-wrapper background-color="#0c1740" padding-top="0px">
+      <mj-section padding-bottom="0px">
+        <mj-column>
+          <mj-image width="130px" src="images/disney title.png"></mj-image>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="29px" font-weight="700" line-height="36px" align="center" color="#FFF">
+            Available to pre‑order now
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0px" padding-bottom="0px">
+        <mj-column>
+          <mj-image padding-left="0px" padding-right="0px" src="images/thore.gif" fluid-on-mobile="true" alt="" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 0px">
+        <mj-column>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="21px" font-weight="600" line-height="24px" align="center" color="#FFF" padding-left="0px" padding-right="0px">
+            The moment we’ve all been waiting for
+          </mj-text>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="17px" line-height="24px" align="center" color="#afafaf" padding="0px 50px 10px 50px">
+            Starting 24 March, you’ll be able to stream<br> over 1000 movies, series, new Originals and<br> more from the 5 wonderful worlds of Disney+.
+          </mj-text>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="17px" line-height="24px" align="center" color="#afafaf" padding="0px 40px 10px 40px">
+            Be the first to pre-order Disney+ with our limited <br>time low price offer – just £49.99 for 12 months.*
+          </mj-text>
+
+          <mj-button font-family="sans-serif" font-size="19px" line-height="40px" font-weight="600" border="#016bf8" border-radius="7px" width="250px" background-color="#016bf8" color="white" padding="15px 30px 15px 30px">
+            Pre‑Order Now
+          </mj-button>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="17px" line-height="24px" align="center" color="#afafaf" padding="0px 80px 0px 80px">
+            *Offer valid until 23 March 2020, after which standard pricing of £5.99 a month or £59.99 a year applies.
+          </mj-text>
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="10px" line-height="18px" align="center" color="#afafaf" padding="0px 30px 20px 30px">
+            Terms and conditions apply
+          </mj-text>
+          <mj-text font-family="sans-serif" font-weight="600" font-size="20px" align="center" color="#afafaf" padding-left="30px" padding-right="30px">
+            Follow us
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0px">
+        <mj-column>
+          <mj-social align="center" mode="horizontal">
+            <mj-social-element icon-padding="5px 0px 0px 0px" text-padding="0px 0px 0px 14px" icon-size="40px" icon-height="40px" vertical-align="top" border-radius="0px" color="#2A3039" font-size="17px" line-height="32px" src="images/ic-instagram.png">
+            </mj-social-element>
+            <mj-social-element icon-padding="5px 0px 0px 0px" text-padding="0px 0px 0px 14px" icon-size="40px" icon-height="40px" vertical-align="top" border-radius="0px" color="#2A3039" font-size="17px" line-height="32px" src="images/ic-facebook.png">
+            </mj-social-element>
+            <mj-social-element icon-padding="5px 0px 0px 0px" text-padding="0px 0px 0px 14px" icon-size="40px" icon-height="40px" vertical-align="top" border-radius="0px" color="#2A3039" font-size="17px" line-height="32px" src="images/ic-twitter.png">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#afafaf" font-size="17px" line-height="24px" font-family="Arial, Helvetica, sans-serif" align="center">For more information, visit our <u>Help Centre</u>.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-divider css-class="divider" padding="0px" border-width="1px" border-color="#afafaf" />
+          <mj-image src="images/all-logo.png" padding="20px 30px 30px 30px" width="500px" padding-bottom="0px"></mj-image>
+          <mj-text color="#afafaf" font-size="12px" line-height="16px" font-family="Arial, Helvetica, sans-serif" align="left" padding="20px 50px 0px 50px">
+            Please do not reply to this communication, as unfortunately we cannot reply to you individually. This email has been sent as you have previously consented to receive updates and information from the Walt Disney Family of Companies. Unsubscribe to stop receiving marketing emails. Disney's policy is to respect and protect individuals’ <u>Privacy Policy</u>. Read our Privacy Policy or find out more about <u>EU Privacy Rights</u>.
+          </mj-text>
+          <mj-text color="#afafaf" font-size="12px" line-height="16px" font-family="Arial, Helvetica, sans-serif" align="left" padding="20px 50px 15px 50px">
+            Sent to you by: The Walt Disney Company Limited, 3 Queen Caroline Street, Hammersmith, London W6 9PE, United Kingdom. Registered No. 530051. All information correct at time of distribution.
+          </mj-text>
+          <mj-text color="#afafaf" font-size="12px" line-height="16px" font-family="Arial, Helvetica, sans-serif" align="left" padding="0px 50px 15px 50px">
+            For any questions, please visit our <u>Help Centre</u>.
+          </mj-text>
+          <mj-text color="#afafaf" font-size="12px" line-height="16px" font-family="Arial, Helvetica, sans-serif" align="left" padding="0px 50px 0px 50px">
+            © 2020 Disney and its related entities. All Rights Reserved.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
